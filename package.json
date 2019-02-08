@@ -1,0 +1,27 @@
+{
+  "name": "killer-firefox-theme",
+  "version": "0.1.0",
+  "description": "\"Killer\" theme for Firefox",
+  "main": "index.js",
+  "scripts": {
+    "clean": "rm -rf ./pkg/*",
+    "archive": "tar -c manifest.json >> pgk/killer-firefox-theme.zip",
+    "package": "npm run clean && npm run archive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinbillings/killer-firefox-theme.git"
+  },
+  "keywords": [
+    "firefox",
+    "theme",
+    "dark",
+    "red"
+  ],
+  "author": "ajb <ab@austinbillings.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinbillings/killer-firefox-theme/issues"
+  },
+  "homepage": "https://github.com/austinbillings/killer-firefox-theme#readme"
+}
