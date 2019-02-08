@@ -1,0 +1,41 @@
+{
+    "theme": {
+        "images": {
+            "headerURL": ""
+        },
+        "colors": {
+            "accentcolor": "#ad2419",
+            "textcolor": "#ffffff",
+            "tab_selected": "#181717",
+            "tab_text": "#c9c3c5",
+            "ntp_text": "#000000",
+            "toolbar": "#181717",
+            "tab_background_separator": "#ad2419",
+            "sidebar": "#181717",
+            "sidebar_border": "#181717",
+            "sidebar_text": "#c9c3c5",
+            "tab_line": "#181717",
+            "toolbar_field": "#302e2e",
+            "toolbar_field_text": "#c9c3c5",
+            "toolbar_field_border": "#181717",
+            "toolbar_field_separator": "#155c5e",
+            "icons": "#b1b0b0",
+            "icons_attention": "#e3a01a",
+            "popup": "#201e1e",
+            "popup_highlight": "#0d0c0c",
+            "popup_text": "#c9c3c5",
+            "toolbar_bottom_separator": "#181717",
+            "toolbar_field_border_focus": "#155c5e",
+            "toolbar_top_separator": "#201e1e",
+            "toolbar_text": "#c9c3c5",
+            "tab_loading": "#155c5e",
+            "button_background_hover": "#0d0c0c",
+            "ntp_background": "#181717",
+            "ntp_text": "#c9c3c5"
+        }
+    },
+    "name": "Killer",
+    "manifest_version": 2,
+    "version": "1.0",
+    "description": "Killer"
+}
